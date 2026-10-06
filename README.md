@@ -23,4 +23,6 @@
 
 更新时间：2026-10-06
 
-作者 [@shangjian_zz](https://x.com/shangjian_zz)。许可 CC BY 4.0，随便抄，公开转载注明出处就行。
+作者 [@shangjian_zz](https://x.com/shangjian_zz)。
+
+许可 CC BY 4.0，完整条文在 `LICENSE`。人话版：拷进你自己的配置随便用，商用也行；公开转载或改编的时候注明出处、链回这个仓库就行。私下用不用署名。
